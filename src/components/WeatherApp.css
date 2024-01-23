@@ -1,0 +1,31 @@
+.search-bar>* {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border: solid 1px black;
+}
+
+.search-bar {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+}
+
+.searchbox {
+    width: 80%;
+    font-size: 20px;
+}
+
+.search-btn {
+    font-size: 28px;
+    margin-left: 10px;
+}
+
+.weather-app {
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+}
